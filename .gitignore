@@ -1,0 +1,43 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore backup files
+*.sql~
+
+# Ignore Mac Finder tags
+*.AppleDouble
+
+# Environment and secrets
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter and VS Code clutter
+.ipynb_checkpoints/
+.vscode/
+
+
+# Data folders (optional — commit only what you want)
+data/raw/
+data/interim/
+models/
+
+# Notebook outputs (optional — useful for clean commits)
+*.ipynb
+
+# Logs or temp files
+*.log
+*.tmp
+
+# add-gitkeep.sh / add-gitkeep.ps1
+add-gitkeep.sh
