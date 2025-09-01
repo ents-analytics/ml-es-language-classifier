@@ -36,6 +36,13 @@ README.md
 
 ```
 
+## Directory Structure - Explained
+
+- Raw --> Raw data files - never overwritten
+- Interim --> API merges, temporary files
+- Processed --> Training-ready dataset and schema
+- Notebook --> Data preparation
+
 ## Dataset Overview and Sources
 
 - Chart Data: A Kaggle dataset
