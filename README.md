@@ -35,6 +35,13 @@ README.md
 .gitignore
 
 ```
+
+## Dataset Overview and Sources
+
+- Chart Data: A Kaggle dataset
+- Spotify API Metadata:
+- Language Labelling: 
+
 ## Project Tasks and Subtasks
 
 CRISP-DM, Data Science Hierarchy of Needs, etc. 
