@@ -52,3 +52,19 @@ README.md
 ## Project Tasks and Subtasks
 
 CRISP-DM, Data Science Hierarchy of Needs, etc. 
+
+### Business Understanding
+
+### Data Understanding
+
+### Data Preparation
+
+### Modelling
+
+### Evaluation
+
+### Modelling
+
+### Deployment
+
+
