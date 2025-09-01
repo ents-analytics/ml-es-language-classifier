@@ -11,12 +11,16 @@ It includes:
 - Model training and evaluation
 - Experiment tracking and evaluation
 
+## Project Objective
+
+
+
 ## Directory Structure
 
 ```plaintext
 data/
 |-- processed/
-|-- raw/  
+|-- raw/
 documentation/
 jupyter-notebooks/
 outputs/
@@ -30,5 +34,7 @@ LICENSE
 README.md
 .gitignore
 
+```
+## Project Tasks and Subtasks
 
-
+CRISP-DM, Data Science Hierarchy of Needs, etc. 
