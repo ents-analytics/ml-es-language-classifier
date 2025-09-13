@@ -1,0 +1,22 @@
+name: spanish-lang-ml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10 # Let Conda downgrade if needed
+  - pandas
+  - numpy
+  - pyarrow
+  - matplotlib
+  - requests
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - notebook 
+  - pip
+  - pip:
+      - spotipy
+      - python-dotenv
+      - plotly
+      - langdetect
+

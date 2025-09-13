@@ -26,6 +26,9 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 
+# Spotify API access tokens refresh
+.cache-spotify
+
 
 # Data folders (optional — commit only what you want)
 data/raw/
