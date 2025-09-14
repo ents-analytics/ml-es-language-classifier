@@ -29,6 +29,9 @@ __pycache__/
 # Spotify API access tokens refresh
 .cache-spotify
 
+# Disk cache
+.spotify_cache.json
+
 
 # Data folders (optional — commit only what you want)
 data/raw/
