@@ -1,6 +1,26 @@
 
 # utils.py
 
+# --- Utils - module docstring -----
+
+"""
+
+utils.py - Spotify data helpers
+
+This module provides (invaluable!) helper functions for working smartly with Spotify's Web API. It includes:
+
+- Authentication: get_spotify_client()
+- Search helpers: search_tracks(), search_track_id(), paginate_search_tracks(), search_tracks_with_features()
+- Resilience: call_with_retry(), to_dataframe()
+- Disk cache: tiny JSON cache with cached wrappers
+- Validation: validate_track_ids(), summarise_id_report()
+
+Intended usage:
+
+	from utils import get_spotify_client, search_tracks_cached, get_audio_features_cached
+"""
+
+
 import os
 import time
 from typing import Iterable, List, Tuple, Dict, Any, Optional
