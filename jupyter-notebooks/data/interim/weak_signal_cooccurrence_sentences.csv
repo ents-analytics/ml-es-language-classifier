@@ -1,0 +1,10 @@
+antecedent_flag,consequent_flag,antecedent_count,co_count,confidence,sentence
+artist_name_has_spanish_char,artist_name_has_spanish_word,50,0,0.0,"Among songs with Spanish diacritic in artist name (n=50), 0.0% also have Spanish word in artist name (co-occurrence count = 0)."
+artist_name_has_spanish_char,title_has_en_vivo,50,0,0.0,"Among songs with Spanish diacritic in artist name (n=50), 0.0% also have ‘en vivo’ in title (co-occurrence count = 0)."
+artist_name_has_spanish_char,title_has_con_feat,50,0,0.0,"Among songs with Spanish diacritic in artist name (n=50), 0.0% also have ‘con/feat/ft.’ in title (co-occurrence count = 0)."
+artist_name_has_spanish_word,artist_name_has_spanish_char,29,0,0.0,"Among songs with Spanish word in artist name (n=29), 0.0% also have Spanish diacritic in artist name (co-occurrence count = 0)."
+artist_name_has_spanish_word,title_has_en_vivo,29,0,0.0,"Among songs with Spanish word in artist name (n=29), 0.0% also have ‘en vivo’ in title (co-occurrence count = 0)."
+artist_name_has_spanish_word,title_has_con_feat,29,0,0.0,"Among songs with Spanish word in artist name (n=29), 0.0% also have ‘con/feat/ft.’ in title (co-occurrence count = 0)."
+title_has_en_vivo,artist_name_has_spanish_char,1,0,0.0,"Among songs with ‘en vivo’ in title (n=1), 0.0% also have Spanish diacritic in artist name (co-occurrence count = 0)."
+title_has_en_vivo,artist_name_has_spanish_word,1,0,0.0,"Among songs with ‘en vivo’ in title (n=1), 0.0% also have Spanish word in artist name (co-occurrence count = 0)."
+title_has_en_vivo,title_has_con_feat,1,0,0.0,"Among songs with ‘en vivo’ in title (n=1), 0.0% also have ‘con/feat/ft.’ in title (co-occurrence count = 0)."

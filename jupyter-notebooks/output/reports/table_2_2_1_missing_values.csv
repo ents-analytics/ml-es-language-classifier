@@ -1,0 +1,8 @@
+Column,Data Type,Non-null Count,Missing Count,% Missing,Notes
+date,object,330087,0,0.0,
+rank,int64,330087,0,0.0,
+song,object,330087,0,0.0,
+artist,object,330087,0,0.0,
+last-week,float64,297775,32312,9.79,"Nulls correspond to debut entries (structural, not errors)"
+peak-rank,int64,330087,0,0.0,
+weeks-on-board,int64,330087,0,0.0,
